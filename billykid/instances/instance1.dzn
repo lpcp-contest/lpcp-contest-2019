@@ -1,0 +1,4 @@
+town1 = [1, 2, 3, 4, 5, 6];
+connected1 = [1, 1, 2, 3, 3, 4, 5];
+connected2 = [4, 2, 3, 4, 5, 5, 6];
+townsintravel1 = [3];

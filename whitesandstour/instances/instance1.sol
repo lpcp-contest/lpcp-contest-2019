@@ -1,0 +1,1 @@
+totalcost(24).

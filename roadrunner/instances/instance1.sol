@@ -1,0 +1,1 @@
+safecircuitlen(2).
