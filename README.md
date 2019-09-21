@@ -9,5 +9,5 @@ Problems:
  - [billykid](billykid/billykid.md)
  - [binfours](binfours/binfours.md)
  - [roadrunner](roadrunner/roadrunner.md)
- - [whitesandstour](whitesandstour/whitesandstour.md)
+ - [tour](whitesandstour/tour.md)
 
