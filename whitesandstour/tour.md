@@ -19,7 +19,7 @@ the number of the attendees, she wants to book specific number of
 units of various activities; for example 3 units of White Sands
 monument tour, 1 unit of full moon hike and 2 units of Lake Lucero
 tour.  An offer of a tour operator can be accepted __only as a
-whole__.  Considering all the accepted offers, if there are more units
+whole__ and __not more than once__.  Considering all the accepted offers, if there are more units
 of an activity than needed, the __surplus can be freely disposed__.
 Mary also wants to __minimize__ the cost of the visit.  Additionally,
 she accepts at most __K__ offers from one tour operator to reduce the
